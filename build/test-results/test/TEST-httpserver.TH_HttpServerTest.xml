@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="httpserver.TH_HttpServerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-10-27T02:44:12" hostname="th-930XBE" time="2.087">
+  <properties/>
+  <testcase name="ProductGET" classname="httpserver.TH_HttpServerTest" time="1.067"/>
+  <testcase name="CustomerPUT" classname="httpserver.TH_HttpServerTest" time="1.018"/>
+  <system-out><![CDATA[Server started
+Connection successful
+Product Handler's POST 
+Request Body: Testing+Body
+Server stopped
+Finally
+Server started
+Connection successful
+Customer Handler's PUT 
+Request Body: Testing+Body
+Server stopped
+Finally
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

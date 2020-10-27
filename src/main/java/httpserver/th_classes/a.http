@@ -1,0 +1,5 @@
+GET http://localhost:8080/customer/id/own_pages HTTP/1.1
+
+{
+"username": "Doing echo/echo"
+}

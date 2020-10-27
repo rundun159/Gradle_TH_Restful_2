@@ -1,0 +1,12 @@
+Server started
+Connection successful
+Product Handler's POST 
+Request Body: Testing+Body
+Server stopped
+Finally
+Server started
+Connection successful
+Customer Handler's PUT 
+Request Body: Testing+Body
+Server stopped
+Finally
